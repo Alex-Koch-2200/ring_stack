@@ -1,7 +1,6 @@
 /*
-    ring_stack.cpp
-    MANSEDS Self-Landing Rocket code
-    Contributors: Alex Koch
+    ring_stack
+    Alex Koch 2018
 
     Last-in-first-out ring stack
 
